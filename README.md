@@ -1,5 +1,6 @@
 # Insurance-Premium-Prediction
 First ML Project end to end Implementation with Kaggle dataset
+
 Following stapes have been followed to build the final model:
   1. Data collection from kaggle
   2. Data analysis and Visualization
@@ -16,5 +17,6 @@ Following stapes have been followed to build the final model:
 
 
 Kaggle dataset Link : https://www.kaggle.com/mirichoi0218/insurance
+
 Web app Link: 
 
