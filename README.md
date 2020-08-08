@@ -18,5 +18,5 @@ Following stapes have been followed to build the final model:
 
 Kaggle dataset Link : https://www.kaggle.com/mirichoi0218/insurance
 
-Web app Link: 
+Web app Link: https://insurance-amount.herokuapp.com/
 
